@@ -1,7 +1,4 @@
-Got it 👍
-Here’s a **clean and standard README.md** you can directly use on your GitHub without too much extra detail:
 
----
 
 # 💬 ChatApp
 
